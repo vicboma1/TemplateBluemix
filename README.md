@@ -24,4 +24,8 @@ Muestra los "N" paquetes que llegan aplicando un "Throttling" que se establece e
 
 7.   Configura el nodo IBM IoT Input con la Api Key de tu Universidad.
 
-@Author: [Victor Bolinches Marin](https://github.com/vicboma1)
+
+
+@Author: [Victor Bolinches Marin](https://github.com/vicboma1)  
+
+@Documento Principal  [CoEValencia - Hackathon 2017](https://github.com/CoEValencia/Hackathon_2017)
