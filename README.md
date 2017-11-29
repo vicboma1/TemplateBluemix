@@ -34,4 +34,4 @@ Muestra los "N" paquetes que llegan aplicando un "Throttling" que se establece e
 
 @Author: [Victor Bolinches Marin](https://github.com/vicboma1)  
 
-@Documento Principal  [CoEValencia - Hackathon 2017](https://github.com/CoEValencia/Hackathon_2017)
+@Documento Principal [CoEValencia - Hackathon 2017](https://goo.gl/vmuVXH)
